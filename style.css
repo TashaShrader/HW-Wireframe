@@ -1,10 +1,81 @@
+body {
+    text-size-adjust: 14px;
+    text-align: center;
+    background: lightslategray;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
-.Body
-{
+#first {
+    background: grey;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-bottom: .75em;   
+}
 
-font-family: "Arial, Helvetica Neue, Helvetica, sans-serif";
-color: "#777";
-background: "#777";
-width: "960px";
-font-size: "18px";
+#two {
+    background: grey;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-bottom: .75em; 
+}
+
+#first-section {
+    float: left;
+    width: 48%;
+    height: 230px;
+    background: grey;
+    margin-right: 1em;
+    padding-top: 2em;
+}
+
+#second-section {
+    overflow: hidden;
+    width: 48%;
+    height: 230px;
+    background: grey;
+    margin-left: 1em;
+    padding-top: 2em;
+}
+
+#arty {
+    position: relative;
+    background: white;
+    padding-top: 1em;
+    padding-bottom: 8em;
+    text-align: center;
+    bottom: -2em;
+    left: 1em;
+    margin-right: 2em;
+}
+
+#h123 {
+    position: relative;
+    background: grey;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    bottom: 5.5em;
+    left: 3em;
+    margin-right: 6em;
+    bold
+}
+
+#party {
+    position: relative;
+    background: grey;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    bottom: 5em;
+    left: 3em;
+    margin-right: 6em;
+}
+
+
+#end {
+    background: grey;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: .75em;   
 }
