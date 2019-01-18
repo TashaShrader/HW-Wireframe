@@ -35,7 +35,7 @@ body {
 
 #first-section {
     float: left;
-    width: 466px;
+    width: 525px;
     height: 250px;
     background: grey;
     padding-top: 2em;
@@ -46,7 +46,7 @@ body {
 #second-section {
     overflow: hidden;
     float: right;
-    width: 466px;
+    width: 416px;
     height: 250px;
     background: grey;
     padding-top: 2em;
